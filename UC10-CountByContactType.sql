@@ -1,0 +1,1 @@
+select COUNT(contact_type) as contact_persons from AddressBook
